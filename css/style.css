@@ -1,0 +1,27 @@
+body
+{
+	background-image:url(../img/tlo.png);
+}
+
+#tresc
+{
+	background-color:white;
+	border-color:rgb(255, 221, 209);
+	border-style:solid;
+	border-width:2px;
+	width:100%;
+	padding:2%;
+	border-top-style:none;
+}
+#tresc h1
+{
+	text-align:center;
+}
+#tresc p
+{
+	text-align:justify;
+}
+.nav a
+{
+	color:black;
+}
